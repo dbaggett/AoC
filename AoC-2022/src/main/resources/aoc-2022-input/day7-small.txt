@@ -1,0 +1,17 @@
+$ cd /
+$ ls
+dir gqlg
+dir hchrwstr
+dir lswlpt
+189381 mzsnhlf
+dir plmdrbn
+dir rjwmjd
+dir stqq
+93174 zfn
+dir zjhqnlrr
+dir zssdlnc
+$ cd gqlg
+$ ls
+187654 cfrdsjf
+100589 ntvmgbw
+46922 zcmfcjhf.tzw

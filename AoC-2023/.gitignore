@@ -1,0 +1,14 @@
+# BEGIN: Haskell Compilation Files
+*.hi
+*.o
+# END: Haskell Compilation Files
+
+# Ignore .hs files unless nested in a directory of the form 'Day_dd' where d is 0-9
+!Day_[0-9][0-9]/*.hs
+
+# Ignore .hs files in the project root directory
+/*.hs
+
+AOC-2022
+
+dist-newstyle
